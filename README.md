@@ -59,5 +59,4 @@ Jupyter Notebooks, GitHub, data visualization workflows
 ## Contact
 
 - GitHub: [makaylam-codefolio](https://github.com/makaylam-codefolio)
-- LinkedIn: add your LinkedIn link here
-- Email: add your preferred email here
+- Email: Makayla.m7@gmail.com
